@@ -1,0 +1,14 @@
+Nombre: 
+Apellido: 
+Telefono: 
+Email: 
+Instituacion: 
+Fecha de Inicio: 2022-08-10
+Fecha de Conclusion: null
+Grado: 
+Empresa: 
+Cargo: 
+Fecha de Inicio: null
+Fecha de Conclusion: null
+Logros: 
+Ruta de Imagen: null
